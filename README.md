@@ -6,6 +6,4 @@ I am majoring in Graphic Information Technology. I am undecided on what I want t
 
 GIT 215 is my first experience with coding but I'm enjoying it. I don't have any skills or experience with coding but I feel like I am catching on to it very quickly.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani-R2=anuraghazra)]
-
-(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mani-R2anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
