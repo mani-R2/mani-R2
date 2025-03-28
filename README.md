@@ -3,8 +3,8 @@
 <!--
 **mani-R2/mani-R2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+I'm Imani Rojas and this is my page! I really enjoy editing vlogs, watching anime and drawing/painting. I am majoring in Graphic Information Technology. I am undecided on what I want to do after graduation but out of courses I've taken so far, I have enjoyed graphic design side of things. 
+GIT 215 is my first experience with coding but I'm enjoying it. I don't have any skills or experience with coding but I feel like I am catching on to it very quickly.  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
