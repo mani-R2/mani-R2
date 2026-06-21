@@ -53,4 +53,4 @@ Check out my repositories to see my latest work and progress as I continue growi
 
 Thanks for stopping by!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani-R2&show_icons=trueprs&cache_seconds=86400&theme=rose)
+![Imani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani-R2&show_icons=true&include_all_commits=true&count_private=true&theme=rose&cache_seconds=86400&v=2)
