@@ -11,6 +11,7 @@ As I continue building my skills in coding and design, I'm exploring how thought
 - Email: imanirojas02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/imani-rojas/
 - GitHub: https://github.com/mani-R2
+- Behance: https://www.behance.net/imanirojas
 
 ## 💻 Coding Languages & Technologies
 
