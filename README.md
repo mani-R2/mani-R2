@@ -2,7 +2,7 @@
 
 I'm Imani Rojas 👋🏼
 
-I'm a Graphic Information Technology student with an interest in front-end web development, graphic design, and creating engaging digital experiences. 
+I'm a Graphic Information Technology graduate with an interest in UX/UI design, front-end web development, graphic design, and creating engaging digital experiences.
 
 As I continue building my skills in coding and design, I'm exploring how thoughtful user experiences, visual storytelling, and interactive interfaces can come together to solve real-world problems.
 
